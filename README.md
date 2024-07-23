@@ -305,7 +305,10 @@ docker compose up -d
 #
 
 ![image](https://github.com/ruesandora/Allora/assets/101149671/5c2f63b6-e831-4d9e-b141-e7edfc1af714)
-
+## Güncelleme Rehberi
+```shell
+https://github.com/finansmanyagi/Allora/blob/main/Update%20Version2
+```
 
 
 
